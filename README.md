@@ -15,9 +15,6 @@ apps/
 └── backend/      # NestJS
 ```
 
-Here’s a concise README section to add to your repo on how to run the VPS setup script:
-
----
 
 ## 🛠️ VPS Setup Script
 
@@ -45,9 +42,6 @@ chmod +x ~/vps-setup.sh
 > - You access your server by IP (no domain configured yet)
 > - You have Node.js and npm installed on your VPS
 
----
-
-Want me to commit this update in the README for you?
 
 ## 🚀 Deployment Workflow
 
